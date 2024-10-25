@@ -12,7 +12,6 @@ int main() {
     	N = N - 25;
 	}
     
-    
     printf("Nilai N sekarang: %d\n", N);
     
     return 0;
